@@ -4,8 +4,6 @@
 
 This is a realtime chatting application developed using React.js, Node.js & Socket.io. ChatGram is dedicated to group messaging. Users can share text-based messages and emojis with their Friends who are in the same room.
 
-### Link - https://chatgramapp.netlify.app/
-
 ## 🏁 Technology Stack
 
 - [React](https://reactjs.org/)
@@ -23,6 +21,6 @@ This is a realtime chatting application developed using React.js, Node.js & Sock
 
 1. Drop a ⭐ on the Github Repository.
 2. Clone the Repo by going to your local Git Client and pushing in the command:
-https://github.com/mechiragjain/Chat-Application.git
+https://github.com/saqibahmed13/React-ChatApp.git
 3. At last, push in the command under client-user directory which will kickstart the application on Local Host:
 npm start
